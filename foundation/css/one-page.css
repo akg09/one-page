@@ -1,0 +1,24 @@
+body {
+	margin : 0;
+}
+#section1 {
+	background-color : rgb(48,56,68);
+	height: 500px;
+}
+#section2 {
+	background-color : rgb(242,242,242);
+	height: 500px;
+}
+#section3 {
+	height: 500px;
+}
+#section4 {
+	height: 500px;
+}
+#section5 {
+	height: 500px;
+}
+#section6 {
+	background-color : rgb(241,241,241);
+	height: 500px;
+}
